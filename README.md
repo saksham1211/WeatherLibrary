@@ -4,3 +4,5 @@ Want to add a card which shows current temprature in your application? Instead o
 ## Update:- 
 
 Easy to use Weather Library coming soon.
+
+Using :- AccuWeather API in backend.
